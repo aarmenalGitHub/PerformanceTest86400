@@ -8,7 +8,7 @@
      -> CreatePetPerformanceTests.jmx
      -> readme1.txt
    
- -> 2 folder
+ -> 2 folder 
      -> LoginAndSearchItemPerformanceTest.jmx
      -> Readme2.txt
      -> response_time_graph_.png
