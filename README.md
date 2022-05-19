@@ -13,6 +13,9 @@
  -> 2 folder
  
    -> LoginAndSearchItemPerformanceTest.jmx
+   
    -> Readme2.txt
+   
    -> response_time_graph_.png
+   
    -> summary.csv
